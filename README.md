@@ -1,13 +1,26 @@
-# StickifyBot | Sticker Download Bot
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stickifybot-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stickifybot-banner-light.png">
+    <img alt="StickifyBot | Sticker Download Bot" src="assets/stickifybot-banner-dark.png" width="620">
+  </picture>
+</p>
 
-> 🤖 **StickifyBot – Your All-in-One Telegram Sticker Downloader!**
->
-> 📥 Download Telegram stickers instantly.  
-> 🔄 Convert stickers into GIF, MP4, PNG, WEBP, JPG and more.  
-> 🎬 Supports static, animated and video stickers.  
-> 📦 Download complete sticker packs.  
->
-> **Fast • Free • Easy to Use**
+<p align="center">
+  <strong>StickifyBot | Sticker Download Bot</strong><br>
+  <em>🤖 StickifyBot – Your All-in-One Telegram Sticker Downloader!</em>
+</p>
+
+<p align="center">
+  📥 <strong>Download</strong> Telegram stickers instantly &nbsp;•&nbsp;
+  🔄 <strong>Convert</strong> to GIF, MP4, PNG, WEBP, JPG &nbsp;•&nbsp;
+  🎬 <strong>Supports</strong> Static, Animated & Video &nbsp;•&nbsp;
+  📦 <strong>Packs</strong> Complete Sticker Packs
+</p>
+
+<p align="center">
+  <strong>Fast • Free • Easy to Use</strong>
+</p>
 
 ---
 
